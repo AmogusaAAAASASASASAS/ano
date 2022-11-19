@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
+ <title>Школа  </title>
+<header style="background = red">
 <meta charset="utf-8" />
-<title>Школа  </title>
-</head>
+
+</header>
 <body>
 border="1" 
 align="center" 
